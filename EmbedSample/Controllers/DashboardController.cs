@@ -58,7 +58,7 @@ namespace paas_demo.Controllers
                                     this.workspaceId,
                                     report.Id,
                                     "jyb",
-                                    new string[] { "Role1" });
+                                    new string[] { "华北区经理" });
 
                 var viewModel = new ReportViewModel
                 {
